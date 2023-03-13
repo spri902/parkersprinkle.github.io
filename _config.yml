@@ -84,10 +84,10 @@ author:
   avatar           : "Parker_portrait.jpg"
   bio              : "Seismology Fiber Optics Data Science"
   location         : "Washington, USA"
-  employer         :
+  employer         : "Pacific Northwest National Lab"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BVt5dqUAAAAJ"
-  email            :
+  email            : "dpsprink@uw.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/parkersprinkle"
   orcid            : "https://orcid.org/0000-0003-3827-9636"
   pinterest        :
   soundcloud       :
