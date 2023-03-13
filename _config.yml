@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Parker Sprinkle Seismology / Data Science"
 title_separator          : "-"
 name                     : &name "Parker Sprinkle"
-description              : &description "personal description"
+description              : &description "Researcher at PNNL and PhD student at University of Washington"
 url                      : https://spri902.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "spri902/spri902.github.io"
@@ -80,10 +80,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Parker Sprinkle"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Seismology Fiber Optics Data Sciencer"
+  location         : "Washington, USA"
   employer         :
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=BVt5dqUAAAAJ"
