@@ -11,35 +11,47 @@ redirect_from:
 
 Education
 ======
-* B.S. Geology / Physics North Carolina State University, 2009
-* M.S. Seismology North Carolina State University, 2018
-* Ph.D Seismology / Data Science University of Washington, 2024 (expected)
+* B.S. North Carolina State University, 2009 (Geology / Physics)
+* M.S. North Carolina State University, 2018 (Seismology)
+* Ph.D University of Washington, 2024 (Seismology / Data Science)
 
 Work experience
 ======
-* 2010 - 2012: Field Geophysicist
-  * Schnabel Engineering 
-  * Duties included:
-  * * Near surface geophysical data collection
+* Fall 2021 - Present: PhD Student
+  * University of Washington 
+   
+* 2018 - Present: Research Scientist
+  * Pacific Northwest National Lab
 
 * 2012 - 2016: Project Geophysicist
   * Geo Solutions
-  * Duties included: Project Management 
-  * Geophysical survey design, data collection and processing
-  * * Report writing
-  * Supervisor: Professor Hub
-  
+  * Duties included: 
+     * Project Management 
+     * Geophysical survey design, data collection and processing
+     * Report writing
+     
+* 2010 - 2012: Field Geophysicist
+  * Schnabel Engineering 
+  * Duties included:
+    * Near surface geophysical data collection (seismic refraction / MASW, GPR, electrical resistivity)
+    * Data processing / report writing  
+
 Skills
 ======
-* 
+* Machine Learning / Scientific Computing 
+* Coda Wave Interferometry
+* Ambient Noise 
+  * 
 * Data Inversion
-* Optimization
-* P
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Optimization
+* Signal Processing
+  * Earthquake Detection / Location
+  * 
+* Distributed Acoustic Sensing
+  * Strain Inversion
+  * Fracture hit detection
+  * 
+* Python, Julia, Matlab
 
 Publications
 ======
