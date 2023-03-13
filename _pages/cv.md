@@ -11,25 +11,30 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. Geology / Physics North Carolina State University, 2009
+* M.S. Seismology North Carolina State University, 2018
+* Ph.D Seismology / Data Science University of Washington, 2024 (expected)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2010 - 2012: Field Geophysicist
+  * Schnabel Engineering 
+  * Duties included:
+  * * Near surface geophysical data collection
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
+* 2012 - 2016: Project Geophysicist
+  * Geo Solutions
+  * Duties included: Project Management 
+  * Geophysical survey design, data collection and processing
+  * * Report writing
   * Supervisor: Professor Hub
   
 Skills
 ======
-* Skill 1
+* 
+* Data Inversion
+* Optimization
+* P
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
