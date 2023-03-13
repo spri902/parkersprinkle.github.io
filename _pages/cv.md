@@ -38,19 +38,16 @@ Work experience
 
 Skills
 ======
-* Machine Learning / Scientific Computing 
-* Coda Wave Interferometry
-* Ambient Noise 
-  * 
-* Data Inversion
-  * Optimization
-* Signal Processing
-  * Earthquake Detection / Location
-  * 
 * Distributed Acoustic Sensing
   * Strain Inversion
   * Fracture hit detection
-  * 
+  * Microseismic 
+* Machine Learning / Scientific Computing 
+* Coda Wave Interferometry / Ambient Noise  
+* Data Inversion
+  * Optimization
+* Signal Processing
+  * Earthquake Detection / Location 
 * Python, Julia, Matlab
 
 Publications
