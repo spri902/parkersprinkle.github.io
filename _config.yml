@@ -9,11 +9,11 @@
 locale                   : "en-US"
 title                    : "Parker Sprinkle Seismology / Data Science"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Parker Sprinkle"
 description              : &description "personal description"
-url                      : https://parkersprinkle.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://spri902.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "spri902/parkersprinkle.github.io"
+repository               : "spri902/spri902.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
