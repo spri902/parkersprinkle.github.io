@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 3"
+title: "Close Observation of Hydraulic Fractures at EGS Collab Experiment 1: Fracture Trajectory, Microseismic Interpretations, and the Role of Natural Fractures"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2021_Close_Observation_of_HFs
+excerpt: 'This paper is about observing the hydraulic fracturing processes during the EGS Collab Experiment 1'
+date: 2015-06-15
+venue: 'JGR Solid Earth'
+paperurl: 'http://[academicpages.github.io/files/Close_Observations.pdf](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020840)'
+citation: 'Fu et. al., Close Observation of Hydraulic Fracturing at EGS Collab Experiment 1: Fracture Trajectory, Microseismic Interpretations, and the Role of Natural Fracutures. JGR Solid Earth, 2021; 126 (7); https://doi.org/10.1029/2020JB020840'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+[Download paper here](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JB020840)
+
